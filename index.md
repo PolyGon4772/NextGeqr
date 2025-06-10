@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: My Blog
 ---
+author: PolyGon4772
